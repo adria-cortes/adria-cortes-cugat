@@ -11,7 +11,7 @@ I strive to maintain a clean, organized, and professional portfolio to share wit
 Feel free to explore my repositories, and if you have any questions or feedback, don’t hesitate to reach out.
 
 ## Contact Information
-- 📧 Email: adriacc@gmail.com.com
+- 📧 Email: adriacc@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/adrià-cortés-cugat-b1942a2b4
 
 ---
